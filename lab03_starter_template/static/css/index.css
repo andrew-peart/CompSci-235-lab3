@@ -1,0 +1,26 @@
+body
+{
+    background-color:antiquewhite
+}
+
+div.navbar{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 50px;
+    width: 50%;
+    border: 3px solid #111111;
+}
+
+div.picture{
+
+    position: absolute;
+    bottom: 180px;
+    
+    border: 1px solid #111111;
+}
+
+div.picture_header{
+    display: flex;
+    justify-content: center;
+}
